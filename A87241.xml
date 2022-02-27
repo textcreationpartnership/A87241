@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More victories lately obtained in Ireland. The successfull and victorious proceedings of the noble and faithfull Lord Inchiquin, Lord President of Munster, against the rebels there. Certified in three letters : two of them under his Lordships own hand, directed to the Honourable William Lenthall Esquire, Speaker to the honourable House of Commons : the third to an honourable member of the said House, from an eminent officer in the army.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87241</idno>
+            <idno type="STC">Wing I134</idno>
+            <idno type="STC">Thomason E409_2</idno>
+            <idno type="STC">ESTC R204417</idno>
+            <idno type="EEBO-CITATION">99863911</idno>
+            <idno type="PROQUEST">99863911</idno>
+            <idno type="VID">161184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161184)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More victories lately obtained in Ireland. The successfull and victorious proceedings of the noble and faithfull Lord Inchiquin, Lord President of Munster, against the rebels there. Certified in three letters : two of them under his Lordships own hand, directed to the Honourable William Lenthall Esquire, Speaker to the honourable House of Commons : the third to an honourable member of the said House, from an eminent officer in the army.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock at the Kings Head in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A different work than: More victoryes obtained in Ireland by the Right Honourable the Lord Inchiquine, Lord President of Munster.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161184:1" rendition="simple:additions"/>
+            <p>MORE VICTORIES <hi>Lately obtained</hi> In IRELAND.</p>
+            <p>THE Succeſsfull and victorious Proceed<g ref="char:EOLhyphen"/>ings of the noble and faithfull Lord <hi>IN<g ref="char:EOLhyphen"/>CHIQUIN,</hi> Lord Preſident of Mun<g ref="char:EOLhyphen"/>ſter, againſt the Rebels there.</p>
+            <p>Certified IN THREE LETTERS: Two of them under his Lordſhips own hand, directed to the Honourable <hi>William Lenthall</hi> Eſquire, Speaker to the Honourable Houſe of Commons: The third to an Honourable Member of the ſaid Houſe, from an eminent Officer in the ARMY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Boſtock</hi> at the Kings Head in <hi>Paul</hi>'s Church-yard. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161184:2"/>
+            <pb n="1" facs="tcp:161184:2"/>
+            <head>A Letter from the Lord of <hi>Inchiquin</hi> Lord Preſident of Munſter, directed to <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of COMMONS.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing conſtrained by divers neceſſities of the ſoul<g ref="char:EOLhyphen"/>diers to retire about five weeks ſithence out of the field, where I had been in the Rebels quarters of the County of Limerick, before I could look into the County of Tipperary, I did after ſome ſhort refreſhment, and the beſt (though but mean) proviſion wihch I could make for the ſouldier, apply my ſelf and this Army forthwith again into the field; and being for want of Oxen and other carriages unable to draw forth any Ar<g ref="char:EOLhyphen"/>tillery, or to carry any larger proportion of bread then what the ſouldiers knapſacks would contain, I marched with the Army into this County, which I entered upon on Saturday the third of this inſtant; and having taken ſeverall Caſtles therein, to the number of ten or twelve, putting to the ſword the warders of ſuch places as ſtood in oppoſition to the Armie, I paſſed over the River <hi>Shewer</hi> not far from the Caſtle of <hi>Cahir,</hi> an ancient and eminet hold of the Rebels, environed with two branches of that River, which was obſerved to be, in all appearance, of that ſtrength, as it was both by them, and by the Officers of this Army eſteemed impregnable: notwithſtanding which, the im<g ref="char:EOLhyphen"/>portance of the place being ſeriouſly conſidered by us, we were occaſioned to make an attempt upon it by this accident; One
+<pb n="2" facs="tcp:161184:3"/>of our horſemen being plundering neer the Town, was by ſome of the Rebels wounded, and carried a priſoner into the Caſtle, from whence he was admitted to ſend for a Chirurgeon into our Quarters to dreſſe his wounds, of which we made this uſe; One Colonel <hi>James Heppeſly,</hi> who had formerly ſerved the King, and was (upon ſome aſſurance given me by a friend, of his doing ſervice) admitted to come into our Quarters, being an ingenu<g ref="char:EOLhyphen"/>ous perſon skilled in Chirurgery, and in Fortifications, took upon him to go under a diſguiſe into the Caſtle, and to dreſſe the wounded Trooper; which accordingly he did with ſo great caution and circumſpection, as that he diſcovered perfectly the condition of the Caſtle in each reſpect, the weakneſſe of the Ward, and eſpecially ſome defects in the wall of the outward Bawne, which rendered it aſſiultable by our men, the taking whereof would probably induce the ſurrender of the Caſtle, which he collected from the obſerved timorouſneſſe of the War<g ref="char:EOLhyphen"/>ders; which ſorted to ſo good purpoſe, as that falling on the place defective with a party led on by Colonel <hi>Heppeſly</hi> him<g ref="char:EOLhyphen"/>ſelf, wee carried that outward Bawne, and ſome out-Turrets by ſtorm, and within a few hours after had the Caſtle ſurren<g ref="char:EOLhyphen"/>dered unto us on quarter onely for life, though upon entry of it wee found that the ſame was by no force of ours to be redu<g ref="char:EOLhyphen"/>ced, if the defendants had not been by divine providence depri<g ref="char:EOLhyphen"/>ved of any courage to oppoſe us.</p>
+            <p>The place is juſtly looked upon by this Armie as the moſt important in the whole Province, being of that ſtrength as not to be taken from us ſo long as we have victuall to ſupport a Gariſon therein, whereby a paſſe is kept open for us to make daily incurſions into this Country, which hath been a princi<g ref="char:EOLhyphen"/>pall contributary to the Rebels Army.</p>
+            <p>To the performance of which Service the Souldier was en<g ref="char:EOLhyphen"/>abled with no other food then the roots under, and corn above the ground (all their cattell being driven away before us out of our reach) of the later whereof wee had great and abundant ſtore, ſo as we have burned in this County above 20000 pounds worth, whereof there could be no uſe-made through want of hand-mils, (for which I have often and earneſtly written) the water-mils being for the moſt part either burned or deſerted.</p>
+            <pb n="3" facs="tcp:161184:3"/>
+            <p>From <hi>Cahir</hi> we marched this inſtant to the City of <hi>Caſhell,</hi> formerly the Metropolitan Sea of this Province, where the Ci<g ref="char:EOLhyphen"/>tizens and Inhabitants amazed at the reducing of <hi>Cahir,</hi> left o<g ref="char:EOLhyphen"/>pen the gates, and fled to the Cathedrall, a large and ſpacious Pile ſeated upon a Rock neer the walls of the Town, and of late very much fortified, and at preſent fully manned with di<g ref="char:EOLhyphen"/>vers Companies of the Rebels, which will render any attempts wee ſhall make upon it very difficult; not withſtanding which, we determine, by Gods aſſiſtance, to leave no meant unaſſayed for the reducing thereof: after which we deſigne <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the Town of Fethard, an eminent walled Town; and from thence to march unto Clonmel, to reduce which wee have yet no great hopes, in regard wee underſtand that place to be very regularly fortified, and ſtrongly manned, ſo as without Artillery there can be no ſeizable attempt made upon it. But if it ſhall pleaſe God to bleſſe us with ſucceſſe on that place, wee may confidently aſſert the Parliaments intereſts in this Province to be high, and the Rebels mean and inconſiderable. Sir, The Gentry of this County by the reducing of theſe places, and the burning of their corn, begin to make ſure that they may be admitted to a Contribution; which ſhall be imbraced, ſo far as may conduce to the better carrying on of the War, and ſup<g ref="char:EOLhyphen"/>porting this Armie, and advancing (as my zeal and duty obliges me) of the Parliament Service, for which I have no other means then this of keeping the Field; from whence if I ſhall be driven to our Gariſons by the violence of the weather, or by an over<g ref="char:EOLhyphen"/>powerfull Armie, I am utterly ignorant how the Armie now a<g ref="char:EOLhyphen"/>broad, or the ſick men and others in Gariſon may be preſerved from ſtarving, without ſeaſonable ſupplyes from the Honou<g ref="char:EOLhyphen"/>rable Houſes, to whoſe Service I have faithfully devoted my ſelf, remaining</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humble Servant INCHIQUIN.</signed>
+               <dateline>
+                  <hi>Caſhell</hi> 
+                  <date>12 <hi>Septemb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161184:4"/>
+            <head>Another Letter of his Lordſhips, of the ſame date.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Occurrences here are ſeldom worthy to be a trouble to you: And though you perceive by thoſe that accompany this Letter, that the Lord hath been pleaſed to go along with our proceedings in an extraordinary manner this Summer, yet certainly if our want of means and Carriages were conſidered, there would in reaſon have been but a ſlender expectation of our endeavours; and now the nakedneſſe of the Souldiers grows ſo powerful and aſſiſtance to our other wants, that we ſhall ſud<g ref="char:EOLhyphen"/>denly be diſabled to contend with them, if clothes be not ſpee<g ref="char:EOLhyphen"/>dily ſent thence for our relief: And therefore I am to requeſt your favour in the behalf of this Army (that have undergone much hardſhip, and are moſt willing to ſacrifice their lives in the Parliaments ſervice) now deſtitute of Clothes and Shoes, in<g ref="char:EOLhyphen"/>ſomuch as within theſe few nights of cold weather ſome of the Souldiers have died of cold, which muſt needs be a great diſ<g ref="char:EOLhyphen"/>couragement to the reſt. And as I take it to be my part humbly to repreſent it to that honourable Houſe, ſo I am confident that by your good means the ſame may the more ſeaſonably be remo<g ref="char:EOLhyphen"/>ved; wherein your aſſiſtance may contribute much to the ſer<g ref="char:EOLhyphen"/>vice of the State, and ſhall much oblige</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very humble ſervant, INCHIQUIN.</signed>
+               <dateline>
+                  <hi>Caſhell,</hi>
+                  <date>12 <hi>Sept.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:161184:4"/>
+            <head>A Letter from an Officer of quality in the Parliaments Army in Munſter, to a worthy Member of the Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FRom <hi>Caſtlegrace</hi> I gave you an account of the proceedings of the Army ſince my Lord of <hi>Inchiquin</hi>'s laſt march abroad into the Field, where he hath been very active and ſuc<g ref="char:EOLhyphen"/>ceſſeful, bleſſed be God. He burnt the Country round a<g ref="char:EOLhyphen"/>bout, and afterwards fell on the out-wall or Bawne of the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Cahir,</hi> upon ſome intelligence that his Lordſhip gained of a defect in ſome part of it: in the gaining whereof, Colonel <hi>Courteney,</hi> Colonel <hi>Heppeſley,</hi> and divers others, behaved them<g ref="char:EOLhyphen"/>ſelves gallantly, ſo as with the loſſe of one Captain <hi>Baſſe,</hi> and three or four Souldiers, we got the Bawne, and made our ap<g ref="char:EOLhyphen"/>proaches under the Caſtle-gates, and within a few hours after, got the Caſtle upon quarter for life onely, upon a Parley by them deſired. This Caſtle was heretofore beſieged twelve weeks by the old Earl of <hi>Eſſex,</hi> then Lord Lieutenant of <hi>Ireland,</hi> with the Queens Army in thoſe Wars, and is conceived to be one of the ſtrongeſt Holds in all <hi>Munſter,</hi> being alſo ſeated on an Iſland on the River <hi>Shewer,</hi> upon which River the ſtrong walled town of <hi>Clo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>el,</hi> and many other ſtrong Caſtles are ſituated; and it opens a paſſage to the County of <hi>Kilkenny</hi> and thoſe parts. My Lord hath placed in Gariſon the Regiment of Colonel <hi>Francis Roe,</hi> which was ſent over by the Parliament with the Lord <hi>Liſle,</hi> at <hi>Cahir.</hi> From hence my Lord commanded us to march im<g ref="char:EOLhyphen"/>mediately to the City of <hi>Caſhel,</hi> ſix large miles diſtant, where the ſupreme Councel of the Rebels lately held their meetings; and found that the ſudden and unexpected taking of <hi>Gahir</hi> Ca<g ref="char:EOLhyphen"/>ſtle, and the burning of the Country, had ſo affrighted the ſoul<g ref="char:EOLhyphen"/>diers and inhabitants, that the ſouldiers had quitted the City, left open the gates, and were gotten into the Cathedral Church ſtan<g ref="char:EOLhyphen"/>ding on a high Rock next the City, which they had fortified for<g ref="char:EOLhyphen"/>merly;
+<pb n="6" facs="tcp:161184:5"/>in all, ſix entire Companies, and about two hundred Towns-men, and ſome women; who being ſummoned by my Lord the firſt night, ſtood upon high terms: the next day his Lordſhip offered them to march with their Arms, which they refuſed, but afterwards would have accepted of it; but my Lord having drawn out the men ready, and conceiving the work to feaſible, commanded the men to fall on, which they did reſo<g ref="char:EOLhyphen"/>lutely and bravely, and in little more then an hours time the Church was taken, and all the men put to the ſword, except the Governour (Lieutenant. Col. <hi>Butler</hi>) who is dangerouſly woun<g ref="char:EOLhyphen"/>ded; Major <hi>Butler,</hi> who was Maior of the Town, his ſon, and ſome few others who were taken priſoners. Thoſe ſlain were above four hundred: and ſuch was the goodneſſe of God to us, that we loſt but one Captain and eight men in this ſervice; but indeed we have neer an hundred hurt. The Rebels are in a cruel fright, whereof my Lord intends to make the beſt uſe he can, and is now ſending to ſummon <hi>Fitherd,</hi> a ſtrong walled Town five or ſix miles hence, and within fourteen miles of the City of <hi>Kil<g ref="char:EOLhyphen"/>kenny,</hi> which hath been the neſt and magazine of the chiefeſt of the Rebels. Bleſſed be the Lord for this good ſucceſſe on this noble Lord and this Army, who are very entire, and very ready to do as much as men in their caſe can do for the ſervice of the Parliament.</p>
+            <p>I thought good hereby to give you notice of what hath paſt ſince my Lord made his diſpatch, being now three days ago, and withal to let you know that we have now received notice that the Lord <hi>Taaff</hi> with about five thouſand Rebels (who dare not give us battel) have done us ſome miſchief about <hi>Cork</hi> in our ab<g ref="char:EOLhyphen"/>ſence, in burning the houſes and corn about <hi>Garrigroghan,</hi> from whence they went to <hi>Awneboy.</hi> ſix miles weſtward, and burnt alſo there, and got ſome money to ſpare other parts; and now they lie about <hi>Bandon,</hi> and threaten it. What my Lord and the Councel will do hereupon, is not yet known to us; but without doubt they will do what they conceive beſt for the Service, as far forth as God ſhall enable them: And if we be ſo happie as to overtake them, I truſt I ſhall ſend you a further Relation by the next, which you will have cauſe to bleſſe God for. And ſo I reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Caſhel,</hi>
+                  <date>15 <hi>Sept.</hi> 1647.</date>
+               </dateline>
+               <signed>Your humble ſervant, <hi>R.C.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
